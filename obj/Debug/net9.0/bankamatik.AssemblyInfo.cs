@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bankamatik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+560f4e3eb81851ecf2a5bc3a4031dea465bd2292")]
 [assembly: System.Reflection.AssemblyProductAttribute("bankamatik")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bankamatik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
