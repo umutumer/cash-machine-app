@@ -1,0 +1,14 @@
+C:\Users\utume\Desktop\C#\bankamatik\bin\Debug\net9.0\bankamatik.exe
+C:\Users\utume\Desktop\C#\bankamatik\bin\Debug\net9.0\bankamatik.deps.json
+C:\Users\utume\Desktop\C#\bankamatik\bin\Debug\net9.0\bankamatik.runtimeconfig.json
+C:\Users\utume\Desktop\C#\bankamatik\bin\Debug\net9.0\bankamatik.dll
+C:\Users\utume\Desktop\C#\bankamatik\bin\Debug\net9.0\bankamatik.pdb
+C:\Users\utume\Desktop\C#\bankamatik\obj\Debug\net9.0\bankamatik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utume\Desktop\C#\bankamatik\obj\Debug\net9.0\bankamatik.AssemblyInfoInputs.cache
+C:\Users\utume\Desktop\C#\bankamatik\obj\Debug\net9.0\bankamatik.AssemblyInfo.cs
+C:\Users\utume\Desktop\C#\bankamatik\obj\Debug\net9.0\bankamatik.csproj.CoreCompileInputs.cache
+C:\Users\utume\Desktop\C#\bankamatik\obj\Debug\net9.0\bankamatik.dll
+C:\Users\utume\Desktop\C#\bankamatik\obj\Debug\net9.0\refint\bankamatik.dll
+C:\Users\utume\Desktop\C#\bankamatik\obj\Debug\net9.0\bankamatik.pdb
+C:\Users\utume\Desktop\C#\bankamatik\obj\Debug\net9.0\bankamatik.genruntimeconfig.cache
+C:\Users\utume\Desktop\C#\bankamatik\obj\Debug\net9.0\ref\bankamatik.dll
